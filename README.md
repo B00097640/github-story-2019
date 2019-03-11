@@ -2,9 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/B00097640/github-story-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[Chapter 4](http://localhost:63342/github-story-2019/Chapter04.html)
-[link to Google!](http://google.com)
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
