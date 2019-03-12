@@ -1,23 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Chapter 02</title>
-</head>
-<body>
+## Chapter 02
 
-<h1>Chapter 02</h1>
+### Validation
 
-<div id="nav">
-    <a href="Chapter01.html" class="button">Chapter01</a>
-    <a href="Chapter02.html" class="button">Chapter02</a>
-    <a href="Chapter03.html" class="button">Chapter03</a>
-    <a href="Chapter04.html" class="button">Chapter04</a>
-</div>
+#### Chapters
 
+- [Chapter 1 - Looking through your history](chapter01.md)
 
-<p>Welcome to Chapter 02</p>
+- [Chapter 2 - Validation](chapter02.md)
 
-</body>
-</html>
+- [Chapter 3 - Game Test](chapter03.md)
 
+- [Chapter 4 - I'm just a clone](chapter04.md)
+
+[Previous Page](chapter01.md) 
+<br/>
+[Next Page](chapter03.md)
