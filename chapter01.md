@@ -1,23 +1,16 @@
+#Chapter 01
 
 
-# Chapter 01
+####Looking through your history
 
 
-Welcome to Chapter 01
+                                       
 
 
-Bulleted list
-
-- sdfg
-- sdfg
-
-NUmbdrted lisr:
-
-1. sdfg
-1. cat
-1. dog
-
-
-links:
-[Chapter01](Chapter01.md)
+####Chapters
+- [Chapter 1 - Looking through your history](Chapter01.md)
+- [Chapter 2 - Validation](Chapter02.md)
+- [Chapter 3 - Game Test](Chapter03.md)
+- [Chapter 4 - I'm just a clone](Chapter04.md)
+- [Next page](Chapter02.md)      
 
