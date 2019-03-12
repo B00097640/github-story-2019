@@ -6,7 +6,13 @@ This is a series of stories that is based on the future and past. It is explaine
 
 #### Chapters
 - [Chapter 1 - Looking through your history](chapter01.md)
+
 - [Chapter 2 - Validation](chapter02.md)
+
 - [Chapter 3 - Game Test](chapter03.md)
+
 - [Chapter 4 - I'm just a clone](chapter04.md)
 
+
+
+[Next Page](chapter01.md)
