@@ -1,8 +1,8 @@
-#Chapter 01
+# Chapter 01
 
-##Looking through your history
+## Looking through your history
 
-###Chapters
+### Chapters
 
 - [Chapter 1 - Looking through your history](chapter01.md)
 - [Chapter 2 - Validation](chapter02.md)
