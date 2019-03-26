@@ -1,7 +1,7 @@
-## Future and Past
+## Future and Past (Spring)
 
 ### Overview
-This is a series of a story that is based on the future and past. It is explained in a third person about stories where problems, challenges and mistakes have been made by others. The main purpose of these chapters is to send a message to people and make them aware of how strong technology is now and will be in the future.
+This is a series of a story that is based on the future and past in Spring. It is explained in a third person about stories where problems, challenges and mistakes have been made by others. The main purpose of these chapters is to send a message to people and make them aware of how strong technology is now and will be in the future.
 
 
 #### Chapters
@@ -9,7 +9,7 @@ This is a series of a story that is based on the future and past. It is explaine
 
 - [Chapter 2 - Validation](chapter02.md)
 
-- [Chapter 3 - Game Test](chapter03.md)
+- [Chapter 3 - Journey to the Wedding](chapter03.md)
 
 - [Chapter 4 - A real mess](chapter04.md)
 

@@ -1,6 +1,5 @@
 ## Chapter 04
 
-### A real mess
 
 #### Chapters
 
