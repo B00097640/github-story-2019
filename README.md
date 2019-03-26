@@ -11,7 +11,7 @@ This is a series of stories that is based on the future and past. It is explaine
 
 - [Chapter 3 - Game Test](chapter03.md)
 
-- [Chapter 4 - I'm just a clone](chapter04.md)
+- [Chapter 4 - A real mess](chapter04.md)
 
 
 
