@@ -8,8 +8,8 @@
 
 - [Chapter 2 - Validation](chapter02.md)
 
-- [Chapter 3 - Game Test](chapter03.md)
+- [Chapter 3 - Journey to the Wedding](chapter03.md)
 
-- [Chapter 4 - I'm just a clone](chapter04.md)
+- [Chapter 4 - A real mess](chapter04.md)
 
 [Previous Page](chapter03.md) 
