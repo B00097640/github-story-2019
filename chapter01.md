@@ -22,18 +22,18 @@ from people with rating minimum of 4.5.
 She took the advice from the housing agent and started to become someone 
 she wasn’t. Annabelle ignored George because she didn’t want to slow her 
 validation from rising for her to get her dream house. 
-#### Chapters
 
+#### Chapters
 - [Chapter 1 - Looking through your history](chapter01.md)
 
 - [Chapter 2 - Validation](chapter02.md)
 
-- [Chapter 3 - Game Test](chapter03.md)
+- [Chapter 3 - Journey to the Wedding](chapter03.md)
 
-- [Chapter 4 - I'm just a clone](chapter04.md)
+- [Chapter 4 - A real mess](chapter04.md)
 
 [Previous Page](README.md) 
-<br/
+<br/>
 [Next Page](chapter02.md)
 
 
