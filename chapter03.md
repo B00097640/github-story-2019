@@ -30,6 +30,7 @@ that she was pretty, and she should not base her life on validation.
 She told her she once used to behave like her then realized after a 
 hard time that it was not worth it, and you should just be yourself. 
 Annabelle was too stubborn to agree.
+
 #### Chapters
 
 - [Chapter 1 - Looking through your history](chapter01.md)
