@@ -1,6 +1,6 @@
 ## Chapter 04
 
-### A real mess
+### Dream house
 
 She had finally reached the wedding but was two hours late with security 
 guarding the wedding. She tried to enter but was not allowed because of 
@@ -33,6 +33,6 @@ was later arrested.
 
 - [Chapter 3 - Journey to the Wedding](chapter03.md)
 
-- [Chapter 4 - A real mess](chapter04.md)
+- [Chapter 4 - Dream house](chapter04.md)
 
 [Previous Page](chapter03.md) 

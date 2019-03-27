@@ -11,7 +11,7 @@ This is a series of a story that is based on the future and past in Spring. It i
 
 - [Chapter 3 - Journey to the Wedding](chapter03.md)
 
-- [Chapter 4 - A real mess](chapter04.md)
+- [Chapter 4 - Dream house](chapter04.md)
 
 
 [Next Page](chapter01.md)
