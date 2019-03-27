@@ -18,6 +18,7 @@ get to her head but instead, she disagreed and started to insult her
 brother. Both had an argument which led to John giving his sister a 
 minus rating. After this had happened Annabelle’s rating had gone 
 down to 4.1. 
+
 #### Chapters
 
 - [Chapter 1 - Looking through your history](chapter01.md)
