@@ -2,28 +2,20 @@
 
 ### Dream house
 
-She had finally reached the wedding but was two hours late with security 
-guarding the wedding. She tried to enter but was not allowed because of 
-her rating. She then came up with a solution to try and sneak in. 
-She drops her bags and hopped the fence without letting security aware 
-she had entered. Before she was about to land her dress got stuck she 
-pulled it off the fence quite hard and succeeded but unfortunately landed 
-on muck. 
+She had finally reached the wedding but was two hours late with 
+security guarding the wedding. By the time Annabelle had got to the 
+wedding she had just checked her phone and found out that Stacy had texted 
+her 20 hours ago that the wedding was postponed. Annabelle got home 
+and had apologised to her brother over the argument they had and told 
+him he was right. She decided to take all the advice she was given and 
+started to control her behaviour. 
 
-It destroyed her face and he was all over her face and body. 
-She was so eager to be at the wedding and had rushed in. 
-She looked around and noticed she was not welcome because of her appearance 
-and rating. This did not stop her from trying to make her speech. 
-Stacy had seen what a mess she was and said that there’s no need for 
-her to be her best woman anymore, but Annabelle refused and said she 
-wanted to do this. 
-
-Stacy was not happy and decided to call security. 
-Annabelle started her speech and decided to talk about the times where 
-Stacy use to bully her and explained how much she wanted to be like Stacy. 
-All the guests weren’t happy with Annabelle which caused many to give her a 
-minus rating ending up with 0. She was finally caught by the security and 
-was later arrested.
+A few weeks later Annabelle had become herself again and quickly rounded back up 
+to the 4.2 rating she was originally at. It was the day of the wedding 
+and Annabelle had a prepared speech for Stacy mentioning great things about 
+her and said how much fun they used to have. Many people were amused by 
+her speech gave her a rating. After the whole event she ended up with 
+5.2 rating earning enough to get the dream house she wanted.
 
 #### Chapters
 - [Chapter 1 - Looking through your history](chapter01.md)
