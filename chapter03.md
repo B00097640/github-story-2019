@@ -10,7 +10,6 @@ you need to be 4.1 and over. Unfortunately, she had just recently
 turned into 4.0. She tried to beg the staff, but they refused to 
 let her on. She started to get angry and started to curse and 
 give out to the staff. 
-
 Security had been called and automatically 
 reduced her validation rating down by 0.5. Also, People behind her 
 in the line were in shock and gave her a minus rating reducing her 
@@ -20,7 +19,6 @@ The journey is 15 hours long. She ended up getting a car to rent.
 After 8 hours on her journey, the car’s battery had finished. 
 She needed another way to get to the wedding, so she decided to 
 start hitch-hiking. 
-
 Luckily enough four hours towards the wedding 
 with a journey of six hours a lovely lady driving a truck with not 
 the greatest of appearances and a rating of below two was generous 

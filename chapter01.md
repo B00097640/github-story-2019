@@ -8,14 +8,12 @@ called validation. Validation would allow strangers, family, friends etc.
 to give you a rating. These ratings were crucial in many people’s eyes as it
 would allow you to get high-class houses or cars and many other things. 
 The highest rating anyone can achieve is 6. 
-
 Many people would not be acknowledged because their rating was below 2. 
 Annabelle was a very nice person with a rating of 4.5 which was very good in many people’s eyes. 
 A man named George used to stand outside Annabelle’s workplace seeking for
 validation knowing Annabelle she didn’t hesitate to give him a rating. 
 She didn’t discriminate other people based on their ratings, 
 but she took the validation application very seriously. 
-
 There was one day Annabelle wanted to meet up with a housing agent. 
 During the meeting, Annabelle was very fond of one dream house 
 the housing agent it was possible for Annabelle to get after five years 
