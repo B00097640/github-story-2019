@@ -25,6 +25,7 @@ All the guests weren’t happy with Annabelle which caused many to give her a
 minus rating ending up with 0. She was finally caught by the security and 
 was later arrested.
 
+
 #### Chapters
 - [Chapter 1 - Looking through your history](chapter01.md)
 
