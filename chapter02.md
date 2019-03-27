@@ -9,6 +9,7 @@ from her old friend Stacy who use to bully her.
 The reason Stacy had called her was that Annabelle’s was 4.2 
 and had a high-class validation. Stacy called her because she was an 
 old friend and wanted her to become her best woman. 
+
 Stacy had a 5.1 rating and the people that would be at the wedding 
 would be a minimum of a 4.2. Annabelle knew this was the reason 
 but ignored it and accepted the offer.
