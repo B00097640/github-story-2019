@@ -30,12 +30,7 @@ Commits made on the on Mar 27, 2019
 Commits made on the on Mar 28, 2019
 
 #### Releases
-[Release #1](https://github.com/B00097640/github-story-2019/releases/tag/v1.0)<br/>
-[Release #2](https://github.com/B00097640/github-story-2019/releases/tag/v2.0)<br/>
-[Release #3](https://github.com/B00097640/github-story-2019/releases/tag/v3.0)<br/>
-[Release #4](https://github.com/B00097640/github-story-2019/releases/tag/v4.0)<br/>
-[Release #5](https://github.com/B00097640/github-story-2019/releases/tag/v5.0)<br/>
-
+[All releases](https://github.com/B00097640/github-story-2019/releases)<br/>
 
 
 #### Issues
@@ -43,5 +38,5 @@ Commits made on the on Mar 28, 2019
 [Issue #2](https://github.com/B00097640/github-story-2019/issues/2)
 
 #### Branches
-https://github.com/B00097640/github-story-2019/tree/alternative_ending
+https://github.com/B00097640/github-story-2019/tree/alternative_ending<br/>
 https://github.com/B00097640/github-story-2019/tree/master
