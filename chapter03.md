@@ -39,7 +39,7 @@ Annabelle was too stubborn to agree.
 
 - [Chapter 3 - Journey to the Wedding](chapter03.md)
 
-- [Chapter 4 - A real mess](chapter04.md)
+- [Chapter 4 - Dream house](chapter04.md)
 
 [Previous Page](chapter02.md) 
 <br/>
