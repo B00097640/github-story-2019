@@ -26,7 +26,6 @@ she wasn’t. Annabelle ignored George because she didn’t want to slow her
 validation from rising for her to get her dream house. 
 
 #### Chapters
-
 - [Chapter 1 - Looking through your history](chapter01.md)
 
 - [Chapter 2 - Validation](chapter02.md)
